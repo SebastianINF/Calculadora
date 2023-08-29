@@ -2,4 +2,4 @@
 
 ## React + Mathjs + Vite
 
-Proyecto personal de react para practicar 
+Proyecto personal de react para practicar mis habilidades
