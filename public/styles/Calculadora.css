@@ -9,7 +9,8 @@
   box-sizing: 0;
 }
 
-html, body {
+html,
+body {
   width: 100%;
   height: 100vh;
 }
@@ -24,7 +25,6 @@ body {
   background-color: lightsalmon;
   padding: 25px;
   border-radius: 5px;
-  
 }
 #root {
   width: 100%;
